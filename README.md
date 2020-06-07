@@ -31,7 +31,7 @@ rm -rf !$/.git
 npm run-script watch-dev
 ```
 
-<h3>run
+<h3>run</h3>
 
 ```
 npm run-script 'nodemon:dev'
