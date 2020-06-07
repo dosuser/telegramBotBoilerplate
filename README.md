@@ -5,10 +5,8 @@ this is simple telegram bot boilerplate.
 <h3>download</h3>
 
 ```
-// Clone the repo
-git clone --depth=1 git://someserver/somerepo dirformynewrepo
-// Remove the .git directory
-rm -rf !$/.git
+// Clone the repo, Remove the .git directory
+git clone --depth=1 https://github.com/dosuser/telegramBotBoilerplate.git;rm -rf !$/.git
 ```
 
 <h3>feature</h3>
