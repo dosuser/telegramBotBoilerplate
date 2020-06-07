@@ -1,5 +1,25 @@
 <h1>telegram bot boilerplate</h1>
 
-<hr>
+this is simple telegram bot boilerplate.
 
-<h1>
+feature
+- development, production environment.
+- watching file change
+- synology NAS's download example implemented
+- firebase
+
+tobe
+- test
+- deploy
+
+<h3> compile & watch changing
+
+```
+npm run-script watch-dev
+```
+
+<h3>run
+
+```
+npm run-script 'nodemon:dev'
+```
