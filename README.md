@@ -6,7 +6,9 @@ this is simple telegram bot boilerplate.
 
 ```
 // Clone the repo, Remove the .git directory
-git clone --depth=1 https://github.com/dosuser/telegramBotBoilerplate.git myproject;cd myproject;rm -rf !$/.git
+git clone --depth=1 https://github.com/dosuser/telegramBotBoilerplate.git myproject
+cd myproject
+rm -rf !$/.git
 ```
 
 <h3>feature</h3>
