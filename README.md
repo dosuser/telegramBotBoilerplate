@@ -11,6 +11,8 @@ feature
 tobe
 - test
 - deploy
+- telegram button ui
+- multi thread
 
 <h3> compile & watch changing
 
