@@ -28,11 +28,11 @@ rm -rf !$/.git
 <h3> compile & watch changing</h3>
 
 ```
-npm run-script watch-dev
+npm run-script watch:dev
 ```
 
 <h3>run</h3>
 
 ```
-npm run-script 'nodemon:dev'
+npm run-script nodemon:dev
 ```
