@@ -34,5 +34,5 @@ npm run-script watch:dev
 <h3>run</h3>
 
 ```
-npm run-script nodemon:dev
+npm run-script run:dev
 ```
